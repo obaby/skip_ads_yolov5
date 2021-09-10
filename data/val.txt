@@ -1,0 +1,2 @@
+data/images/Screenshot_20210517_185207_com.zhihu.android.jpg
+data/images/Screenshot_20210517_162131_com.sinovatech.unicom.ui.jpg
