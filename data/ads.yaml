@@ -13,10 +13,10 @@ val: data/val.txt  # 5k images
 test: data/test.txt  # 20k images for submission to https://competitions.codalab.org/competitions/20794
 
 # number of classes
-nc: 2
+nc: 1
 
 # class names
-names: ['Gingerbread', 'Coconut-milk']
+names: ['skip']
 
 # Print classes
 # with open('data/coco.yaml') as f:
