@@ -5,7 +5,7 @@ import random
 
 trainval_percent = 0.9
 train_percent = 0.9
-xmlfilepath = 'train'
+xmlfilepath = 'xmls'
 txtsavepath = 'Screenshots'
 total_xml = os.listdir(xmlfilepath)
 
