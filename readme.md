@@ -16,6 +16,7 @@ Android Skip Ads Yolov5 Project
 conda env create user/my-environment
 source activate my-environment
 ```  
+![conda](https://anaconda.org/obaby/yolov5/badges/version.svg)
 如果不想使用上面的安装方法可以参考：https://blog.csdn.net/oJiWuXuan/article/details/107558286 和https://github.com/ultralytics/yolov5 按照官方指导进行安装。  
 
 **2.数据准备**  
