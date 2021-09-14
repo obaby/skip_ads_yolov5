@@ -539,3 +539,5 @@ https://github.com/EvgenMeshkin/ScreenShot/blob/master/app/src/main/java/by/andr
 https://blog.csdn.net/qq_38499859/article/details/90523283  
 https://juejin.cn/post/6844903589127651335  
 https://stackoverflow.com/questions/2661536/how-to-programmatically-take-a-screenshot-on-android  
+https://pytorch.org  
+https://developer.nvidia.com/cuda-downloads?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exe_network
