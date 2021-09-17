@@ -35,7 +35,7 @@ def convert_annotation(image_id):
     labal文件中的格式：calss x y w h　　同时，一张图片对应的类别有多个，所以对应的ｂｕｎｄｉｎｇ的信息也有多个
     '''
     # 对应的通过year 找到相应的文件夹，并且打开相应image_id的xml文件，其对应bund文件
-    in_file = open('train/%s.xml' % (image_id), encoding='utf-8')
+    in_file = open('xmls/%s.xml' % (image_id), encoding='utf-8')
     # 准备在对应的image_id 中写入对应的label，分别为
     # <object-class> <x> <y> <width> <height>
     out_file = open('data/labels/%s.txt' % (image_id), 'w', encoding='utf-8')
