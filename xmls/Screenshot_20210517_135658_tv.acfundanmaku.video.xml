@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135658_tv.acfundanmaku.video.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135658_tv.acfundanmaku.video.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135658_tv.acfundanmaku.video.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>834</xmin>
-			<ymin>107</ymin>
-			<xmax>1034</xmax>
-			<ymax>172</ymax>
+			<xmin>843</xmin>
+			<ymin>94</ymin>
+			<xmax>1013</xmax>
+			<ymax>184</ymax>
 		</bndbox>
 	</object>
 </annotation>

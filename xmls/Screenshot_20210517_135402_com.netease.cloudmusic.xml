@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135402_com.netease.cloudmusic.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135402_com.netease.cloudmusic.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135402_com.netease.cloudmusic.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>863</xmin>
-			<ymin>2107</ymin>
-			<xmax>1026</xmax>
-			<ymax>2194</ymax>
+			<xmin>850</xmin>
+			<ymin>2094</ymin>
+			<xmax>1050</xmax>
+			<ymax>2184</ymax>
 		</bndbox>
 	</object>
 </annotation>

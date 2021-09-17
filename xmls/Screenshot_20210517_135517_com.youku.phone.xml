@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135517_com.youku.phone.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135517_com.youku.phone.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135517_com.youku.phone.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>797</xmin>
-			<ymin>109</ymin>
-			<xmax>1019</xmax>
-			<ymax>175</ymax>
+			<xmin>804</xmin>
+			<ymin>111</ymin>
+			<xmax>1016</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135446_tv.danmaku.bili.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135446_tv.danmaku.bili.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135446_tv.danmaku.bili.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>826</xmin>
-			<ymin>2146</ymin>
-			<xmax>1024</xmax>
+			<xmin>816</xmin>
+			<ymin>2147</ymin>
+			<xmax>1021</xmax>
 			<ymax>2250</ymax>
 		</bndbox>
 	</object>

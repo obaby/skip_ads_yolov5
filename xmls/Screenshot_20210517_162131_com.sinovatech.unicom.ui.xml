@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_162131_com.sinovatech.unicom.ui.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_162131_com.sinovatech.unicom.ui.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_162131_com.sinovatech.unicom.ui.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>909</xmin>
-			<ymin>77</ymin>
-			<xmax>1009</xmax>
-			<ymax>224</ymax>
+			<xmin>906</xmin>
+			<ymin>91</ymin>
+			<xmax>1011</xmax>
+			<ymax>203</ymax>
 		</bndbox>
 	</object>
 </annotation>

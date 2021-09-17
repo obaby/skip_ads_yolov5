@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135748_com.baidu.netdisk.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135748_com.baidu.netdisk.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135748_com.baidu.netdisk.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>836</xmin>
-			<ymin>70</ymin>
-			<xmax>1041</xmax>
-			<ymax>155</ymax>
+			<xmin>833</xmin>
+			<ymin>67</ymin>
+			<xmax>1001</xmax>
+			<ymax>142</ymax>
 		</bndbox>
 	</object>
 </annotation>

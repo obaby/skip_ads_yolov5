@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135911_com.zhihu.android.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135911_com.zhihu.android.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135911_com.zhihu.android.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>841</xmin>
-			<ymin>121</ymin>
-			<xmax>1031</xmax>
-			<ymax>216</ymax>
+			<xmin>850</xmin>
+			<ymin>130</ymin>
+			<xmax>1028</xmax>
+			<ymax>220</ymax>
 		</bndbox>
 	</object>
 </annotation>

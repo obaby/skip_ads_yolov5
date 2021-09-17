@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Screenshots</folder>
+	<filename>Screenshot_20210916_171151_com.sinovatech.unicom.ui.jpg</filename>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210916_171151_com.sinovatech.unicom.ui.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>835</xmin>
+			<ymin>72</ymin>
+			<xmax>1018</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_090917_com.weico.international.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_090917_com.weico.international.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_090917_com.weico.international.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>880</xmin>
-			<ymin>2148</ymin>
-			<xmax>1012</xmax>
-			<ymax>2255</ymax>
+			<xmin>872</xmin>
+			<ymin>2142</ymin>
+			<xmax>1021</xmax>
+			<ymax>2262</ymax>
 		</bndbox>
 	</object>
 </annotation>

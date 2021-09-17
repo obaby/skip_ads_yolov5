@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Screenshots</folder>
 	<filename>Screenshot_20210517_135840_com.huawei.appmarket.jpg</filename>
-	<path>/Users/zhongming/PycharmProjects/skip_ads_yolo/Screenshots/Screenshot_20210517_135840_com.huawei.appmarket.jpg</path>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\Screenshots\Screenshot_20210517_135840_com.huawei.appmarket.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>883</xmin>
-			<ymin>77</ymin>
-			<xmax>1024</xmax>
-			<ymax>146</ymax>
+			<xmin>879</xmin>
+			<ymin>79</ymin>
+			<xmax>1028</xmax>
+			<ymax>142</ymax>
 		</bndbox>
 	</object>
 </annotation>
