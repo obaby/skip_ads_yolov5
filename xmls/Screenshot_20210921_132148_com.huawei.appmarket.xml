@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>Screenshot_20210921_132148_com.huawei.appmarket.jpg</filename>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\temp\Screenshot_20210921_132148_com.huawei.appmarket.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>72</ymin>
+			<xmax>1033</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

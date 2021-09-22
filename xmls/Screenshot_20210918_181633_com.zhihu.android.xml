@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>Screenshot_20210918_181633_com.zhihu.android.jpg</filename>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\temp\Screenshot_20210918_181633_com.zhihu.android.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>2237</ymin>
+			<xmax>1018</xmax>
+			<ymax>2306</ymax>
+		</bndbox>
+	</object>
+</annotation>

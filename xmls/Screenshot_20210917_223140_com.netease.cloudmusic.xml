@@ -1,0 +1,26 @@
+<annotation>
+	<folder>temp</folder>
+	<filename>Screenshot_20210917_223140_com.netease.cloudmusic.jpg</filename>
+	<path>F:\Pycharm_Projects\skip_ads_yolov5\temp\Screenshot_20210917_223140_com.netease.cloudmusic.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>2340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>skip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>772</xmin>
+			<ymin>167</ymin>
+			<xmax>1009</xmax>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+</annotation>
