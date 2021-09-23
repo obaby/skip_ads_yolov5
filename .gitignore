@@ -2,3 +2,5 @@
 venv/
 venv/*
 /venv/*
+.idea/misc.xml
+.idea/skip_ads_yolo.iml
